@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islam Ashraf</h1>
 <h3 align="center">Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src"https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamashraf2003&label=Profile%20views&color=0e75b6&style=flat" alt="islamashraf2003" /> </p>
 
 - 🌱 I’m currently learning **Flutter Development**
