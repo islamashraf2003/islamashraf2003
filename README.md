@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working as a **Mobile Application Developer**.  
-- 🌱 I’m currently learning **Advanced Flutter, Swift & SwiftUI**.  
+- 🌱 I’m currently learning **Advanced Flutter**  
 - 👯 I’m looking to collaborate on **OpenSource Projects**.  
 - 📫 Reach me at: **[islamashraf520@gmail.com](mailto:islamashraf520@gmail.com)**  
 
