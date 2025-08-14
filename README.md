@@ -11,6 +11,10 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**.  
 - 📫 Reach me at: **[islamashraf520@gmail.com](mailto:islamashraf520@gmail.com)**  
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/7b68310c253b448be51378fd2f169a6621ce7ab310f1501fa2882ad264a0b913/68747470733a2f2f6d656469612e74656e6f722e636f6d2f545f617655456b33615777414141416a2f63617467726f6f76653774762d63617467726f6f76652e676966" alt="Funny Cat GIF" />
+</div>
+
 <br>
 
 <div align="center">
