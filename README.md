@@ -20,6 +20,13 @@
 
 <br>
 
+## 📱 Published Applications
+
+| App | iOS | Android |
+|-----|-----|---------|
+| Med Arab Care | [![Download on the App Store](https://img.shields.io/badge/Download%20on%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/med-arab-care/id6753120564) | [![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-1ED760?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gentech.medarabcare) |
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
