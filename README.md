@@ -17,48 +17,6 @@ Mobile Developer | Flutter | Clean Architecture |
 
 ---
 
-## 🚀 My Apps
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>App</th>
-    <th>iOS</th>
-    <th>Android</th>
-  </tr>
-  <tr>
-    <td>Med Arab Care</td>
-    <td>
-      <a href="https://apps.apple.com/eg/app/med-arab-care/id6753120564">
-        <img src="https://img.shields.io/badge/iOS-Apple-black?style=for-the-badge&logo=apple" />
-      </a>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.gentech.medarabcare">
-        <img src="https://img.shields.io/badge/Android-GooglePlay-1ED760?style=for-the-badge&logo=googleplay" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Srena App</td>
-    <td>
-      <a href="https://apps.apple.com/sa/app/srena/id6447414404">
-        <img src="https://img.shields.io/badge/iOS-Apple-black?style=for-the-badge&logo=apple" />
-      </a>
-    </td>
-    <td>
-      <a href="https://play.google.com/store/apps/details?id=com.srena.app&hl=ar">
-        <img src="https://img.shields.io/badge/Android-GooglePlay-1ED760?style=for-the-badge&logo=googleplay" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
